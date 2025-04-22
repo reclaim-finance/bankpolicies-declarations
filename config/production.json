@@ -4,8 +4,8 @@
       "versions": {
         "storage": {
           "git": {
-            "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/demo-snapshots/commit/%SNAPSHOT_ID",
-            "repository": "git@github.com:OpenTermsArchive/demo-versions.git",
+            "snapshotIdentiferTemplate": "https://github.com/reclaim-finance/bankpolicies-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:reclaim-finance/bankpolicies-versions.git",
             "path": "./data/versions"
           }
         }
@@ -13,7 +13,7 @@
       "snapshots": {
         "storage": {
           "git": {
-            "repository": "git@github.com:OpenTermsArchive/demo-snapshots.git",
+            "repository": "git@github.com:reclaim-finance/bankpolicies-snapshots.git",
             "path": "./data/snapshots"
           }
         }
@@ -31,27 +31,20 @@
     "reporter": {
       "githubIssues": {
         "repositories": {
-          "declarations": "OpenTermsArchive/demo-declarations",
-          "versions": "OpenTermsArchive/demo-versions",
-          "snapshots": "OpenTermsArchive/demo-snapshots"
+          "declarations": "reclaim-finance/bankpolicies-declarations",
+          "versions": "reclaim-finance/bankpolicies-versions",
+          "snapshots": "reclaim-finance/bankpolicies-snapshots"
         }
       }
     },
     "dataset": {
-      "title": "demo",
-      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/demo-versions"
+      "title": "bankpolicies",
+      "versionsRepositoryURL": "https://github.com/reclaim-finance/bankpolicies-versions"
     },
     "collection-api": {
       "port": 3000,
       "basePath": "/collection-api"
     },
-    "logger": {
-      "timestampPrefix": false
-    }
-  },
-  "@opentermsarchive/federation-api": {
-    "port": 3003,
-    "basePath": "/federation-api",
     "logger": {
       "timestampPrefix": false
     }
