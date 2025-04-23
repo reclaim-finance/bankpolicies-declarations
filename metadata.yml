@@ -1,21 +1,21 @@
 id: bankpolicies
 name: bankpolicies
-tagline: ''
-description: ''
+tagline: 'Sectorial policies for the banking sector'
+description: 'Sectorial policies for the banking sector'
 dataset: https://github.com/reclaim-finance/bankpolicies-versions/releases
 declarations: https://github.com/reclaim-finance/bankpolicies-declarations
 versions: https://github.com/reclaim-finance/bankpolicies-versions
 snapshots: https://github.com/reclaim-finance/bankpolicies-snapshots
 donations: ''
 logo: ''
-languages: []
-jurisdictions: []
+languages: ['fr']
+jurisdictions: ['FR']
 trackingPeriods:
-  - startDate: 2025-04-22
+  - startDate: 2025-04-23
     schedule: "30 */12 * * *"
     serverLocation: ''
 governance:
   reclaim-finance:
-    url: ''
-    logo: ''
+    url: 'https://reclaimfinance.org'
+    logo: 'https://reclaimfinance.org/site/wp-content/uploads/2020/03/logo_RC_space.png'
     roles: [administrator, curator, maintainer]
