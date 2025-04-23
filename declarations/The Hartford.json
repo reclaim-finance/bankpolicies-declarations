@@ -1,0 +1,8 @@
+{
+  "name": "The Hartford",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://ewcstatic.thehartford.com/thehartford/the_hartford/files/Comm/coal-tar-sands-policy.pdf"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Comgest",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.comgest.com/-/media/comgest/esg-library/esg-en/responsible-investment-policy.pdf"
+    }
+  }
+}

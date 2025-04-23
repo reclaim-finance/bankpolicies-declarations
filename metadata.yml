@@ -7,7 +7,7 @@ declarations: https://github.com/reclaim-finance/bankpolicies-declarations
 versions: https://github.com/reclaim-finance/bankpolicies-versions
 snapshots: https://github.com/reclaim-finance/bankpolicies-snapshots
 logo: 'https://reclaimfinance.org/site/wp-content/uploads/2020/03/logo_RC_space.png'
-languages: ['fr']
+languages: ['en']
 jurisdictions: ['FR']
 trackingPeriods:
   - startDate: 2025-04-23

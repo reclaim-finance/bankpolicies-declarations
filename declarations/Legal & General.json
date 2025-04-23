@@ -1,0 +1,8 @@
+{
+  "name": "Legal & General",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://cms.lgim.com/globalassets/lgim/_document-library/capabilities/lgimh-coal-policy.pdf"
+    }
+  }
+}

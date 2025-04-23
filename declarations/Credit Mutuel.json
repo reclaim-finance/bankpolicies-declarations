@@ -1,0 +1,8 @@
+{
+  "name": "Crédit Mutuel",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://cdnwmsi.e-i.com/SITW/wm/global/1.0.0/WEBA/BFCM/assets/articles/telechargements/nos-politiques-sectorielles/2.0/202402_PS-Charbon_FR.pdf"
+    }
+  }
+}

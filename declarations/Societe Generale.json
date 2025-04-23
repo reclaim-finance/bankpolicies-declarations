@@ -1,0 +1,8 @@
+{
+  "name": "Société Générale",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.societegenerale.com/sites/default/files/documents/CSR/oil-gas-sector-policy.pdf"
+    }
+  }
+}

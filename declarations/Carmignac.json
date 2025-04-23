@@ -1,0 +1,8 @@
+{
+  "name": "Carmignac",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://carmidoc.carmignac.com/SRIEXP_FR_en.pdf"
+    }
+  }
+}
