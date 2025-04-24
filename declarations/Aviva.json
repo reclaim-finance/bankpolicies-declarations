@@ -1,0 +1,9 @@
+{
+  "name": "Aviva",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://static.aviva.io/content/dam/aviva-corporate/documents/socialpurpose/pdfs/Aviva-ESG-Investment-Baseline-Exclusions-Policy.pdf", 
+      "executeClientScripts": true
+    }
+  }
+}

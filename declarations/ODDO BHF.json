@@ -1,0 +1,8 @@
+{
+  "name": "ODDO BHF",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://am.oddo-bhf.com/france/en/non_professional_investor/GetRequestDocument?CodeDoc=PEX&CodPageWeb=FICHE_FONDS&a=.pdf"
+    }
+  }
+}
