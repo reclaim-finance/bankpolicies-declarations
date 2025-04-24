@@ -2,7 +2,7 @@
   "name": "Maif",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://entreprise.maif.fr/engagements/economie-responsable/politique-investissement",      
+      "fetch": "https://entreprise.maif.fr/engagements/economie-responsable/politique-investissement",
       "select": ".mod-paragraphe-simple"
     }
   }
