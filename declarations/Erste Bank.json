@@ -1,0 +1,9 @@
+{
+  "name": "Erste Bank",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://cdn0.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/%C3%9Cber%20uns/corporate-governance/erstegroup-responsible-financing-policy.pdf?forceDownload=1"
+      
+    }
+  }
+}

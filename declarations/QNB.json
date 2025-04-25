@@ -1,0 +1,8 @@
+{
+  "name": "QNB",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.qnb.com/sites/qnb/qnbqatar/document/en/enESRM"
+    }
+  }
+}

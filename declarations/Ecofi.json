@@ -1,0 +1,9 @@
+{
+  "name": "Ecofi",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ecofi.fr/demarche-isr",
+      "select": "main"
+    }
+  }
+}

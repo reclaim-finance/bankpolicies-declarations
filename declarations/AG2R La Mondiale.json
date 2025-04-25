@@ -1,0 +1,8 @@
+{
+  "name": "AG2R La Mondiale",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ag2rlamondiale.fr/files/live/sites/portail/files/pdf/gestion-d-actifs/documentation/AG2R-LA-MONDIALE-gestion-actifs-politique-climat.pdf"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CDPQ",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.cdpq.com/sites/default/files/medias/pdf/fr/strategie_climatique.pdf"
+    }
+  }
+}

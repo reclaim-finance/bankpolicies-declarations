@@ -1,0 +1,8 @@
+{
+  "name": "Barclays",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://home.barclays/content/dam/home-barclays/documents/citizenship/our-reporting-and-policy-positions/Climate-Change-Statement.pdf"
+    }
+  }
+}

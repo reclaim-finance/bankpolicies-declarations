@@ -3,6 +3,9 @@
   "terms": {
     "Terms of Service": {
       "fetch": "https://cms.lgim.com/globalassets/lgim/_document-library/capabilities/lgimh-coal-policy.pdf"
+    }, 
+    "Privacy Policy": {
+      "fetch": "https://www.lgim.com/landg-assets/lgim/_document-library/responsible-investing/oil-and-gas-climate-impact-pledge-sector-guides.pdf"
     }
   }
 }

@@ -1,0 +1,8 @@
+{
+  "name": "JPMorgan Chase",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/investment-banking/carbon-compass/Carbon_Compass_Final.pdf"
+    }
+  }
+}

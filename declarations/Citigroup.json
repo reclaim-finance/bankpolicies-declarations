@@ -1,0 +1,8 @@
+{
+  "name": "Citigroup",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.citigroup.com/rcs/citigpa/akpublic/storage/public/Environmental-and-Social-Policy-Framework.pdf"
+    }
+  }
+}

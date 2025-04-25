@@ -1,0 +1,8 @@
+{
+  "name": "PNC",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/CorporateResponsibilityReports/PNC_Responsible_Lending_Practices.pdf"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ofi Invest Asset Management",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ofi-invest-am.com/pdf/principes-et-politiques/politique_petrole-et-gaz.pdf"
+    }
+  }
+}

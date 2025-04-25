@@ -1,0 +1,8 @@
+{
+  "name": "CaixaBank",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.caixabank.com/deployedfiles/caixabank_com/Estaticos/PDFs/Sostenibilidad/Principles-ESG-Risks-Managing.pdf"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "KBC",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.kbc.com/content/dam/kbccom/doc/sustainability-responsibility/FrameworkPolicies/CSD_KBCGroupEnergyPolicy.pdf"
+    }
+  }
+}

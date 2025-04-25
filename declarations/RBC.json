@@ -1,0 +1,8 @@
+{
+  "name": "RBC",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.rbc.com/community-social-impact/environment/RBC-Policy-Guidelines-for-Sensitive-Sectors-and-Activities_EN.pdf"
+    }
+  }
+}
