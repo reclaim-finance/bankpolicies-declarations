@@ -1,0 +1,8 @@
+{
+  "name": "Westpac",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/Climate_Change_Position_Statement_and_Action_Plan.pdf"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Fonds de réserve pour les retraites",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.fondsdereserve.fr/fr/investissement-socialement-responsable/liste-exclusions",
+      "select": ".content"
+    }
+  }
+}

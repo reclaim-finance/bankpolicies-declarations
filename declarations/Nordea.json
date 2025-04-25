@@ -1,8 +1,8 @@
 {
-  "name": "Alecta",
+  "name": "Nordea",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://www.alecta.se/globalassets/policy-for-responsible-investments.pdf"
+      "fetch": "https://www.nordea.com/en/doc/nordea-sector-guideline-for-fossil-fuel-based-industries.pdf"
     }
   }
 }

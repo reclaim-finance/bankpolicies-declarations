@@ -1,0 +1,11 @@
+{
+  "name": "Standard Chartered",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://av.sc.com/corp-en/content/docs/extractive-industries-position-statement.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://av.sc.com/corp-en/content/docs/SC-net-zero-whitepaper.pdf"
+    }
+  }
+}

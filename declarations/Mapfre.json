@@ -1,0 +1,8 @@
+{
+  "name": "Mapfre",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.mapfre.com/media/MAPFRE-ENVIRONMENTAL-COMMITMENTS-IN-INVESTMENT-AND-UNDERWRITING.pdf"
+    }
+  }
+}

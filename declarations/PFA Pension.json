@@ -1,0 +1,9 @@
+{
+  "name": "PFA",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://english.pfa.dk/about-pfa/corporate-responsibility/exclusion/",
+      "select": "main"
+    }
+  }
+}

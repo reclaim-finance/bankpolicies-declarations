@@ -1,0 +1,8 @@
+{
+  "name": "University of California",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ucop.edu/investment-office/_files/summary-of-uc-investments-fossil-free-methodology.pdf"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "MS&AD",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ms-ad-hd.com/en/csr/summary/materiality.html",
+      "select": "#sharewithmain"
+    }
+  }
+}

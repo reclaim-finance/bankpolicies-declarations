@@ -3,6 +3,9 @@
   "terms": {
     "Terms of Service": {
       "fetch": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/Excerpt-Responsible-Investment-Guideline.pdf/_jcr_content/renditions/original./Excerpt-Responsible-Investment-Guideline.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.munichre.com/content/dam/munichre/contentlounge/website-pieces/documents/MunichRes-approach-to-fossil-fuels-in-underwriting-and-investment.pdf/_jcr_content/renditions/original./MunichRes-approach-to-fossil-fuels-in-underwriting-and-investment.pdf"
     }
   }
 }

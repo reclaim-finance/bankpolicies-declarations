@@ -1,0 +1,8 @@
+{
+  "name": "KLP",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.klp.no/en/english-pdf/Guidelines%20for%20KLP%20as%20a%20responsible%20investor.pdf"
+    }
+  }
+}
