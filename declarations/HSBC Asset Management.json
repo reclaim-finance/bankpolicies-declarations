@@ -3,7 +3,7 @@
   "terms": {
     "Terms of Service": {
       "fetch": "https://www.assetmanagement.hsbc.com.hk/-/media/files/attachments/common/energy-policy-en.pdf"
-    }, 
+    },
     "Privacy Policy": {
       "fetch": "https://www.assetmanagement.hsbc.fr/-/media/files/attachments/france/common/am-thermal-coal-policy-fr.pdf"
     }
