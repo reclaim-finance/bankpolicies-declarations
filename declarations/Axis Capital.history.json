@@ -1,0 +1,9 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://www.axiscapital.com/who-we-are/corporate-citizenship/fossil-fuel-policy",
+      "select": ".main-content",
+      "validUntil": "2025-10-24T00:00:00.000Z"
+    }
+  ]
+}

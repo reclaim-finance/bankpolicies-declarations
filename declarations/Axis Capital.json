@@ -2,7 +2,7 @@
   "name": "Axis Capital",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://www.axiscapital.com/who-we-are/corporate-citizenship/fossil-fuel-policy",
+      "fetch": "https://www.axiscapital.com/bermuda/who-we-are/sustainability/fossil-fuel-policy",
       "select": ".main-content"
     }
   }
